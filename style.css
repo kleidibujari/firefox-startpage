@@ -2,19 +2,19 @@
   margin: 0;
   padding: 0;
   font-family: Fira Code;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 body {
-  background: #131C23;
+  background: #131c23;
 }
 
 span {
-  color: #F7EFE4;
+  color: #f7efe4;
 }
 
 a {
-  color: #908B84;
+  color: #908b84;
 }
 
 a:hover {
@@ -37,7 +37,7 @@ a:hover {
 #box-half {
   color: #009193;
   background: #262626;
-  
+
   height: 375px;
   width: 400px;
   padding: 20px;
@@ -51,3 +51,6 @@ a:hover {
   font-weight: bold;
 }
 
+.link {
+  text-decoration: none;
+}
