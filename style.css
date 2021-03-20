@@ -1,24 +1,24 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: Fira Code;
-  font-size: 17px;
+  font-family: Jetbrains Mono;
+  font-size: 18px;
 }
 
 body {
-  background: #131c23;
+  background: #282828;
 }
 
 span {
-  color: #f7efe4;
+  color: #a89984;
 }
 
 a {
-  color: #908b84;
+  color: #ebdbb2;
 }
 
 a:hover {
-  color: #9c3f0c;
+  color: #689d6a;
 }
 
 #box {
@@ -29,21 +29,17 @@ a:hover {
 }
 
 #pic-half {
-  border-radius: 10px;
-  width: 440px;
-  height: 550px;
+  border-radius: 8px;
+  width: 400px;
+  height: 400px;
 }
 
 #box-half {
   color: #009193;
-  background: #262626;
 
-  height: 375px;
-  width: 400px;
-  padding: 20px;
-  border-radius: 10px;
-  margin-top: -4px;
-  margin-left: 10px;
+  height: 400px;
+  width: 450px;
+  border-radius: 8px;
 }
 
 .header {
@@ -54,3 +50,19 @@ a:hover {
 .link {
   text-decoration: none;
 }
+
+#h1 {
+  color: #458588;
+} 
+
+#h2 {
+  color: #98971a;
+} 
+
+#h3 {
+  color: #b16286;
+} 
+
+#h4 {
+  color: #d79921;
+} 
